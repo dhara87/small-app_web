@@ -171,9 +171,9 @@ URL = "faq"
 ########################### Default parameters ###########################
 [params]
 # main logo
-logo = "images/logo.png"
+logo = "/images/logo.png"
 # footer logo
-logo_light = "images/logo-alt.png"
+logo_light = "/images/logo-alt.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -198,7 +198,7 @@ enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+map_marker = "/images/marker.png"
 
 
 ########################### social icon ############################
